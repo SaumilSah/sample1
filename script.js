@@ -56,7 +56,7 @@ console.log('Bmi of Mark is :' + ' ' + markBmi + 'and the BMI of John is: ' + ' 
 var greaterBmi = markBmi > johnBmi;
 
 console.log('  Bmi of Mark\'s :' + ' ' + markBmi + ' and the BMI of John\'s: ' + ' ' + johnBmi + ' ' + 'Does Mark has a higher BMI than John?' + ' ' + greaterBmi);
-console.log('---Bmi of Mark\'s :' + ' ' + markBmi + ' and the BMI of John\'s: ' + ' ' + johnBmi + ' ' + 'Does Mark has a higher BMI than John?' + ' ' + greaterBmi);
+
 
 
 
